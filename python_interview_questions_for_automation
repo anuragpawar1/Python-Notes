@@ -1,0 +1,56 @@
+1.Explain List, Tuple, Set, and Dictionary and provide at least one instance where each of these collection types can be used.
+
+2.Does Python allow you to program in a structured style?
+
+3.What is PIP software in the Python world?
+
+4.What should be the typical build environment for Python-based application development?
+
+5.What tools can be used to unit test your Python code?
+
+6.How does for Loop and while Loop differs in Python and when do you choose to use them?
+
+7.How do you implement JSON given that Python is best suited for the server-side application?
+
+8.What is the purpose of _init_() function in Python?
+
+9.What is the significance of the ‘self’ parameter in an object method? Should we always name this parameter as ‘self’?
+
+10.How does Lambda function differ from a normal function in Python?
+
+11.How is Exception Handling done in Python?
+
+12. What are Python Tuples and how is it different from Lists?
+
+13.What are membership operators in Python? Write an example to explain both.
+
+14.Write a code to display the current time.
+
+15.What are help () and dir() in python?
+
+16.What does the term ‘Monkey Patching’ refer to in Python?
+
+17.What is range () in Python?
+
+18.What is a from import statement and write the syntax for it?
+
+19.What is the difference between locals() and globals()?
+
+20.What is the difference between a shallow copy and deep copy?
+
+21.What does PEP8 refer to?
+
+22.What are *args and *kwargs?
+
+23.What is namespace in Python?
+
+24.What does len() do?
+
+25.What are the rules for legal Python names? 
+
+26.Define “slicing”.
+
+27.What is a “negative index”?
+
+28.Define “module” and “package”.
+
